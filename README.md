@@ -1,8 +1,5 @@
-# RSM8413-COVID19-KNN
-First Group Assignment
-
-
 # RSM8413 — COVID-19 KNN Classification
+
 
 Machine Learning Analytics — Group Assignment 1
 
